@@ -27,5 +27,5 @@ def using_concat(my_favorite_things, more_favs)
 end
 
 def using_insert(list_of_esoteric_programming_languages, malbolge)
-list_of_esoteric_programming_languages.insert(malbolge)
+list_of_esoteric_programming_languages.insert("malbolge")
 end
